@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "mpvue": "^1.0.10"{{#vuex}},
-    "vuex": "^2.3.1"{{/vuex}},
-    "vuetify": "^1.0.17",
-    "vuex": "^2.3.1"  
+    "vuetify": "^1.0.17"
+    "vuex": "^2.3.1"{{/vuex}}
+  
   },
   "devDependencies": {
     "mpvue-loader": "^1.0.13",
@@ -25,6 +25,7 @@
     "mpvue-template-compiler": "^1.0.10",
     "portfinder": "^1.0.13",
     "postcss-mpvue-wxss": "^1.0.0",
+    "postcss-mpvue-wxss-patch": "^1.0.0"
     "px2rpx-loader": "^0.1.8",
     "babel-core": "^6.22.1",
     "glob": "^7.1.2",
