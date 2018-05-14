@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "mpvue": "^1.0.10"{{#vuex}},
-    "vuex": "^2.3.1"{{/vuex}}
+    "vuex": "^2.3.1"{{/vuex}},
+    "vuetify": "^1.0.17",
+    "vuex": "^2.3.1"  
   },
   "devDependencies": {
     "mpvue-loader": "^1.0.13",
