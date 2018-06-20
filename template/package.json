@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "mpvue": "^1.0.10"{{#vuex}},
-    "vuetify": "^1.0.17",
     "vuex": "^2.3.1"{{/vuex}}
   
   },
